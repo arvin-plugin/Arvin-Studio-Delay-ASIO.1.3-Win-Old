@@ -9,3 +9,5 @@ Copy DelayVST.dll to VSTPlugins or C://Program Files/imageline/FL Studio 11/Plug
 <img src="ARVIN-Studio-Delay-VST-Win.png"></img>
 # Screenshot 
 <img src="screenshot.png"></img>
+
+# code
